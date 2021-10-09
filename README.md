@@ -7,7 +7,5 @@ Libraries to come soon:
 + JSX in browsers xp
   
 <br>  
-  
-<img src="https://vsadx.com/icon/github-profile.png" alt="github profile"/>
 
 <i> ty et al </i>
